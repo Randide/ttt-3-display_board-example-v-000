@@ -1,11 +1,11 @@
 def display_board
-  phrase = "A Tic Tac Toe Board" 
-  row1 = "   ", "|", "   ", "|", "   "
-  row2 = "-----------"
-  row1 = "   ", "|", "   ", "|", "   "
-  row2 = "-----------"
-  row1 = "   ", "|", "   ", "|", "   "
-  row2 = "-----------"
+  puts = "A Tic Tac Toe Board"
+  puts = "   ", "|", "   ", "|", "   "
+  puts = "-----------"
+  puts = "   ", "|", "   ", "|", "   "
+  puts = "-----------"
+  puts = "   ", "|", "   ", "|", "   "
+  puts = "-----------"
 end
 
 display_board
